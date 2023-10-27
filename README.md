@@ -5,7 +5,8 @@ O intuito desse projeto é aplicar todo o conhecimento aprendido até o final da
 ## Ferramenta utilizada
 
 > Jupyter Notebook: 3.11.4
-> Python(random)
+
+> Python (random)
 
 ## Programa: Jogo da forca (Hangman)
 
